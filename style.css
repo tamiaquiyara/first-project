@@ -1,0 +1,24 @@
+body {
+    /* you can use a more complete font-family from VSCode as well */
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.header {
+    background-color: rgb(227, 144, 238);
+    padding: 1em;
+}
+
+.main {
+    background-color : rgb(178, 32, 171);
+}
+
+.footer {
+    background-color: rgb(238, 144, 233);
+    padding: 1em;
+}
+
+.side-bar {
+    float: left;
+    width: 25%;
+}
+
